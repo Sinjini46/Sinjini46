@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **32sinjinihomroy@gmail.com**
 
-- 📄 Know about my experiences [https://sinjinihomroyresume.tiiny.site](https://sinjinihomroyresume.tiiny.site)
+- 📄 Know about my experiences https://sinjini-hom-roy-resume.tiiny.site/
 
 - ⚡ Fun fact **I love to watch reels 🤪**
 
