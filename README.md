@@ -39,8 +39,4 @@
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinjini46&show_icons=true&locale=en&layout=compact" alt="sinjini46" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini46&show_icons=true&locale=en" alt="sinjini46" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinjini46&&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="sinjini46" /></p>
