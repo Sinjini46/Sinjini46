@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences https://sinjini-hom-roy-resume.tiiny.site/
 
-- ⚡ Fun fact **I love to watch reels 🤪**
+- 🤝  I’m looking for help with Working on new projects and learning new Tech
 
 ## Connect with me:
 
@@ -38,5 +38,8 @@
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </p>
+<h2> Stats </h2>
+
+![Sinjini46's Stats](https://github-readme-stats.vercel.app/api?username=Sinjini46&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinjini46&&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="sinjini46" /></p>
