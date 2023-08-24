@@ -38,7 +38,6 @@
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </p>
 <h2> Stats </h2>
-<h2> Stats </h2>
 
 ![Sinjini46's Stats](https://github-readme-stats.vercel.app/api?username=Sinjini46&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
