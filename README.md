@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **32sinjinihomroy@gmail.com**
 
-- 📄 Know about my experiences https://sinjinihomroy.tiiny.site
+- 📄 Know about my experiences https://sinjini-hom-roy.tiiny.site
 - 🤝  I’m looking for help with Working on new projects and learning new Tech
 
 ## Connect with me:
