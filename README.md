@@ -34,10 +34,10 @@
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://icons8.com/icon/rgPSE6nAB766/mysql"/>
+<img src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/>"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://icons8.com/icon/33039/amazon-web-services"/>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 </p>
 <h2> Stats </h2>
 
